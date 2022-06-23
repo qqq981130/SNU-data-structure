@@ -62,11 +62,11 @@ This is the submitted assignments for Seoul National University - data structure
 >INSERT %ACTION% %THE MATRIX%    
 >INSERT %DRAMA% %MILLION DOLLAR BABY%    
 >SEARCH %BA%   
->(ACTION, BATMAN BEGINS)   	
->(DRAMA, MILLION DOLLAR BABY)       	 
->DELETE %DRAMA% %MILLION DOLLAR BABY%   	   
+>(ACTION, BATMAN BEGINS)   
+>(DRAMA, MILLION DOLLAR BABY)   
+>DELETE %DRAMA% %MILLION DOLLAR BABY%   
 >PRINT   
->(ACTION, BATMAN BEGINS)   	   
+>(ACTION, BATMAN BEGINS)   
 >(ACTION, THE MATRIX)   	   
 >QUIT   	   
 >$   	    
